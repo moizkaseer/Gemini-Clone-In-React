@@ -1,12 +1,13 @@
 
 import './App.css'
+import Sidebar from './components/Sidebar/Sidebar'
 
 function App() {
 
 
   return (
     <>
-      <h2></h2>
+      <Sidebar/>
     </>
   )
 }
